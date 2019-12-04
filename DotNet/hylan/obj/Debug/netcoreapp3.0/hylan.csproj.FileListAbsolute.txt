@@ -1,0 +1,11 @@
+d:\office\4-办公软件\github\new\1-Self-Learning\c_program\cs\DotNet\hylan\bin\Debug\netcoreapp3.0\hylan.exe
+d:\office\4-办公软件\github\new\1-Self-Learning\c_program\cs\DotNet\hylan\bin\Debug\netcoreapp3.0\hylan.deps.json
+d:\office\4-办公软件\github\new\1-Self-Learning\c_program\cs\DotNet\hylan\bin\Debug\netcoreapp3.0\hylan.runtimeconfig.json
+d:\office\4-办公软件\github\new\1-Self-Learning\c_program\cs\DotNet\hylan\bin\Debug\netcoreapp3.0\hylan.runtimeconfig.dev.json
+d:\office\4-办公软件\github\new\1-Self-Learning\c_program\cs\DotNet\hylan\bin\Debug\netcoreapp3.0\hylan.dll
+d:\office\4-办公软件\github\new\1-Self-Learning\c_program\cs\DotNet\hylan\bin\Debug\netcoreapp3.0\hylan.pdb
+d:\office\4-办公软件\github\new\1-Self-Learning\c_program\cs\DotNet\hylan\obj\Debug\netcoreapp3.0\hylan.csprojAssemblyReference.cache
+d:\office\4-办公软件\github\new\1-Self-Learning\c_program\cs\DotNet\hylan\obj\Debug\netcoreapp3.0\hylan.AssemblyInfoInputs.cache
+d:\office\4-办公软件\github\new\1-Self-Learning\c_program\cs\DotNet\hylan\obj\Debug\netcoreapp3.0\hylan.AssemblyInfo.cs
+d:\office\4-办公软件\github\new\1-Self-Learning\c_program\cs\DotNet\hylan\obj\Debug\netcoreapp3.0\hylan.dll
+d:\office\4-办公软件\github\new\1-Self-Learning\c_program\cs\DotNet\hylan\obj\Debug\netcoreapp3.0\hylan.pdb
